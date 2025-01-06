@@ -86,6 +86,6 @@ O codigo se encontra [aqui](scripts/index.js). Já para visitar o site, basta ac
 ## 👨‍💻 Desenvolvedor
 Responsável pela criação do projeto
 
-Diego - Programação e documentação
-Email: diego.dpab@gmail.com
+Diego - Programação e documentação <br>
+Email: diego.dpab@gmail.com <br>
 Conheça mais acessando o GitHub do desenvolvedor [aqui](https://github.com/Di3go07)!
